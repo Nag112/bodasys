@@ -7,7 +7,7 @@
                         <div class="single-footer-widget m-0" data-aos="fade-up" data-aos-delay="300"
                             data-aos-anchor-placement="bottom bottom">
                             <div class="footer-logo pb-3">
-                                <a href="<?=base_url()?>">
+                                <a href="<?=site_url()?>">
                                     <img src="assets/images/logo/logo.png" alt="Logo Image">
                                 </a>
                             </div>
@@ -30,11 +30,11 @@
                             data-aos-anchor-placement="bottom bottom">
                             <h2 class="widget-title">Our Servcie</h2>
                             <ul class="widget-list pt-3">
-                                <li><a href="<?=base_url()?>service">Mobile App Development</a></li>
-                                <li><a href="<?=base_url()?>service">Ui/Ux Design</a></li>
-                                <li><a href="<?=base_url()?>service">Web Development</a></li>
-                                <li><a href="<?=base_url()?>service">Article Writting</a></li>
-                                <li><a href="<?=base_url()?>service">Content Management</a></li>
+                                <li><a href="<?=site_url()?>service">Mobile App Development</a></li>
+                                <li><a href="<?=site_url()?>service">Ui/Ux Design</a></li>
+                                <li><a href="<?=site_url()?>service">Web Development</a></li>
+                                <li><a href="<?=site_url()?>service">Article Writting</a></li>
+                                <li><a href="<?=site_url()?>service">Content Management</a></li>
                             </ul>
                         </div>
                     </div>
@@ -43,10 +43,10 @@
                             data-aos-anchor-placement="bottom bottom">
                             <h2 class="widget-title">Quicklink</h2>
                             <ul class="widget-list pt-3">
-                                <li><a href="<?=base_url()?>">Home</a></li>
-                                <li><a href="<?=base_url()?>about">About</a></li>
-                                <li><a href="<?=base_url()?>contact">Help Center</a></li>
-                                <li><a href="<?=base_url()?>contact">Conditin</a></li>
+                                <li><a href="<?=site_url()?>">Home</a></li>
+                                <li><a href="<?=site_url()?>about">About</a></li>
+                                <li><a href="<?=site_url()?>contact">Help Center</a></li>
+                                <li><a href="<?=site_url()?>contact">Conditin</a></li>
                                 
                             </ul>
                         </div>
@@ -101,11 +101,11 @@
         <i class="arrow-bottom fa fa-angle-double-up"></i>
     </a>
 
-    <script src="<?=base_url()?>assets/js/vendor/vendor.min.js"></script>
-    <script src="<?=base_url()?>assets/js/plugins/plugins.min.js"></script>
+    <script src="<?=site_url()?>assets/js/vendor/vendor.min.js"></script>
+    <script src="<?=site_url()?>assets/js/plugins/plugins.min.js"></script>
 
     <!--Main JS-->
-    <script src="<?=base_url()?>assets/js/main.js"></script>
+    <script src="<?=site_url()?>assets/js/main.js"></script>
 </body>
 
 </html>
