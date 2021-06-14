@@ -79,7 +79,7 @@ $autoload['libraries'] = array('xmlrpc','session');
 |	$autoload['drivers'] = array('cache' => 'cch');
 |
 */
-$autoload['drivers'] = array('session');
+$autoload['drivers'] = array();
 
 /*
 | -------------------------------------------------------------------
