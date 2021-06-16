@@ -28,13 +28,13 @@
                     <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-custom">
                         <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="400"
                             data-aos-anchor-placement="bottom bottom">
-                            <h2 class="widget-title">Our Servcie</h2>
+                            <h2 class="widget-title">Our Services</h2>
                             <ul class="widget-list pt-3">
-                                <li><a href="<?=site_url()?>service">Mobile App Development</a></li>
-                                <li><a href="<?=site_url()?>service">Ui/Ux Design</a></li>
-                                <li><a href="<?=site_url()?>service">Web Development</a></li>
-                                <li><a href="<?=site_url()?>service">Article Writting</a></li>
-                                <li><a href="<?=site_url()?>service">Content Management</a></li>
+                                <li><a href="<?=site_url()?>service">Strategy and Vision</a></li>
+                                <li><a href="<?=site_url()?>service">Needs Assessment</a></li>
+                                <li><a href="<?=site_url()?>service">Risk Management</a></li>
+                                <li><a href="<?=site_url()?>service">Schedule Management</a></li>
+                                <li><a href="<?=site_url()?>service">Project Management</a></li>
                             </ul>
                         </div>
                     </div>
