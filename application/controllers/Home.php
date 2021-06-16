@@ -45,7 +45,9 @@ class Home extends CI_Controller
     }
     public function portfolio()
     {
+        $page_details['title'] = "Portfolio";
         $this->load->view('partials/header');
+        $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('portfolio');
         $this->load->view('partials/footer');
     }
