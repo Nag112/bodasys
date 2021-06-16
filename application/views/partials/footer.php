@@ -92,18 +92,12 @@
     </footer>
     <!-- Footer Section End Here -->
      
-
-
-
     <!-- Scroll Top Start Here -->
     <a href="#" class="scroll-top" id="scroll-top">
         <i class="arrow-top fa fa-angle-double-up"></i>
         <i class="arrow-bottom fa fa-angle-double-up"></i>
     </a>
-
-    <script src="<?=site_url()?>assets/js/vendor/vendor.min.js"></script>
-    <script src="<?=site_url()?>assets/js/plugins/plugins.min.js"></script>
-
+    <script src="<?=site_url()?>assets/js/main.js"></script>
 </body>
 
 </html>

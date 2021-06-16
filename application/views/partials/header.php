@@ -1,16 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Boda Systems</title>
-    <link rel="stylesheet" href="<?=site_url()?>assets/css/plugins.min.css">
     <link rel="stylesheet" href="<?=site_url()?>assets/css/style.min.css">
-
 </head>
-
     <!-- Header Area Start Here -->
     <header class="main-header-area header-transparent header-sticky">
         <!-- Main Header Area Start -->
@@ -32,9 +27,7 @@
                                 <li>
                                     <a class="active" href="<?=site_url()?>">
                                         <span class="menu-text"> Home</span>
-
                                     </a>
-
                                 </li>
                                 <li>
                                     <a href="<?=site_url()?>about">
