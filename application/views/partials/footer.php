@@ -11,9 +11,9 @@
                                     <img src="assets/images/logo/logo.png" alt="Logo Image">
                                 </a>
                             </div>
-                            <p class="desc-content pt-3 pb-3">Lorem ipsum dolor sit amet, consect ascing elit, sed do
-                                eiusmod incididunt ut labore et dolore Many desktop lishing packages and web page
-                                editors</p>
+                            <p class="desc-content pt-3 pb-3">Bodasystems Inc. is a project consulting and strategic staffing solutions
+                            provider focusing on to provide highly talented and knowledgeable resources to satisfy all
+                            your IT needs</p>
                             <!-- Soclial Link Start -->
                             <div class="widget-social pt-4">
                                 <a title="Facebook" href="#"><i class="fa fa-facebook-f"></i></a>
@@ -25,7 +25,7 @@
                             <!-- Social Link End -->
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-4 col-lg-3 col-custom">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-custom">
                         <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="400"
                             data-aos-anchor-placement="bottom bottom">
                             <h2 class="widget-title">Our Servcie</h2>
@@ -38,7 +38,7 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-6 col-md-3 col-lg-2 col-custom">
+                    <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-custom">
                         <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="500"
                             data-aos-anchor-placement="bottom bottom">
                             <h2 class="widget-title">Quicklink</h2>
@@ -46,35 +46,12 @@
                                 <li><a href="<?=site_url()?>">Home</a></li>
                                 <li><a href="<?=site_url()?>about">About</a></li>
                                 <li><a href="<?=site_url()?>contact">Help Center</a></li>
-                                <li><a href="<?=site_url()?>contact">Conditin</a></li>
+                                <li><a href="<?=site_url()?>career">Career</a></li>
                                 
                             </ul>
                         </div>
                     </div>
-                    <div class="col-12 col-sm-12 col-md-5 col-lg-3 col-custom">
-                        <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="600"
-                            data-aos-anchor-placement="bottom bottom">
-                            <h2 class="widget-title">Get in Touch</h2>
-                            <div class="widget-body pt-3">
-                                <p class="desc-content pb-3">Enter your email and receive the latest news from us.</p>
-                                <div class="newsletter-form-wrap pt-4">
-                                    <form id="mc-form" class="mc-form d-flex position-relative">
-                                        <input type="email" id="mc-email" class="form-control email-box rounded-0"
-                                            placeholder="email@example.com" name="EMAIL">
-                                        <button id="mc-submit" class="btn newsletter-btn position-absolute"
-                                            type="submit"><i class="fa fa-envelope"></i></button>
-                                    </form>
-                                    <!-- mailchimp-alerts Start -->
-                                    <div class="mailchimp-alerts text-centre">
-                                        <div class="mailchimp-submitting"></div><!-- mailchimp-submitting end -->
-                                        <div class="mailchimp-success text-success"></div><!-- mailchimp-success end -->
-                                        <div class="mailchimp-error text-danger"></div><!-- mailchimp-error end -->
-                                    </div>
-                                    <!-- mailchimp-alerts end -->
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                
                 </div>
             </div>
         </div>

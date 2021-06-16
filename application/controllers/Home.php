@@ -37,7 +37,7 @@ class Home extends CI_Controller
     }
     public function contact()
     {
-        $page_details['title'] = "Contact";
+        $page_details['title'] = "Contact Us";
         $this->load->view('partials/header');
         $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('contact');
