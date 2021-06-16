@@ -6,8 +6,6 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Boda Systems</title>
-
-    <link rel="stylesheet" href="<?=site_url()?>assets/css/vendor.min.css">
     <link rel="stylesheet" href="<?=site_url()?>assets/css/plugins.min.css">
     <link rel="stylesheet" href="<?=site_url()?>assets/css/style.min.css">
 
