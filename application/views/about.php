@@ -10,7 +10,7 @@
                 </div>
                 <div class="col-lg-6 col-xl-7 order-0 order-lg-1" data-aos="fade-up" data-aos-delay="300">
                     <figure class="marketing-about-thumb mb-md-40 mb-sm-40">
-                        <img class="fit-image" src="assets/images/about/1.jpg" alt="About">
+                        <img class="fit-image" src="assets/images/about.jpg" alt="About">
                         <figcaption class="about-video-btn">
                             <a href="https://www.youtube.com/watch?v=v9nBysHSzhE" class="btn-play btn-video-popup video-popup">
                                 <i class="fa fa-play"></i>
