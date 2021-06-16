@@ -24,7 +24,7 @@ class Home extends CI_Controller
         $page_details['title'] = "Services";
         $this->load->view('partials/header');
         $this->load->view('partials/breadcrums',$page_details);
-        $this->load->view('partials/servicesList');
+        $this->load->view('services');
         $this->load->view('partials/footer');
     }
     public function career()
