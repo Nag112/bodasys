@@ -12,18 +12,17 @@
                 <div class="single-slide-wrapper swiper-slide slide-1 slide-bg-1 bg-position">
                     <!-- Intro Content Start -->
                     <div class="slider-content text-center">
-                        <h2 class="title" data-splitting>Who we Are</h2>
+                        <h2 class="title">Who we Are</h2>
                         <h4 class="sub-title">Bodasystems Inc. is a project consulting and strategic staffing solutions
                             provider focusing on to provide highly talented and knowledgeable resources to satisfy all
                             your IT needs</h4>
-                        
                     </div>
                     <!-- Intro Content End -->
                 </div>
                 <div class="single-slide-wrapper swiper-slide slide-2 slide-bg-1 bg-position">
                     <!-- Intro Content Start -->
                     <div class="slider-content text-center">
-                        <h2 class="title" data-splitting>Our expertise</h2>
+                        <h2 class="title">Our expertise</h2>
                         <h4 class="sub-title">Our core expertise lies in the ability to adopt collaborative approach,
                             and to completely comprehend customer challenges and advocate long term solutions to enable
                             future business growth by collaborating with the customer.</h4>
@@ -34,7 +33,7 @@
                 <div class="single-slide-wrapper swiper-slide slide-3 slide-bg-1 bg-position">
                     <!-- Intro Content Start -->
                     <div class="slider-content text-center">
-                        <h2 class="title title-space" data-splitting>What we provide</h2>
+                        <h2 class="title title-space">What we provide</h2>
                         <h4 class="sub-title">Bodasystems strength is based on skills, talent, industry best practices
                             and experience with deep industry specialization. The talented team brings in value in
                             utilizing cutting-edge technology driven tools to optimize project life cycle and efficient

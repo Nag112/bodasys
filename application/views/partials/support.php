@@ -9,7 +9,7 @@
                             <p class="mt-5 mb-5 pb-3">Whether you want to work with us or are interested in learning more about what we do, we’d love to hear from you.</p>
                         </div>
                         <div class="support-button">
-                            <a class="btn btn-dark btn-hover-primary" href="contact.html">Contact now</a>
+                            <a class="btn btn-dark btn-hover-primary" href="<?=site_url()?>contact">Contact now</a>
                         </div>
                     </div>
                 </div>

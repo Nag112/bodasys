@@ -7,7 +7,7 @@ class Home extends CI_Controller
     {
         $this->load->view('partials/header');
         $this->load->view('index');
-        $this->load->view('portfolio');
+        // $this->load->view('portfolio');
         $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }
@@ -29,13 +29,17 @@ class Home extends CI_Controller
     }
     public function career()
     {
+        $page_details['title'] = "Career";
         $this->load->view('partials/header');
+        $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('career');
         $this->load->view('partials/footer');
     }
     public function contact()
     {
+        $page_details['title'] = "Contact";
         $this->load->view('partials/header');
+        $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('contact');
         $this->load->view('partials/footer');
     }
