@@ -63,7 +63,7 @@
             <div class="row">
                 <div class="offset-lg-2 col-lg-8">
                     <div class="contact-form">
-                        <form action="https://htmlmail.Bodasystems.com/rezaul/corporate.php" id="contact-form" method="post">
+                        <form action="" id="contact-form" method="post">
                             <div class="row">
                                 <div class="col-md-6 col-12 mb-6">
                                     <input class="input-item" type="text" placeholder="Your Name *" name="name">
