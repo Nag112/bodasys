@@ -1,23 +1,4 @@
-<div class="breadcrumbs-area position-relative mb-text-p">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 text-center">
-                    <div class="breadcrumb-content position-relative section-content">
-                        <h3 class="title">About Us</h3>
-                        <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li>About Us</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Breadcrumb Area End Here -->
-    <!-- About Section Start Here -->
-    <div class="about-section pt-90 pb-90">
-        <div class="container">
-            <div class="row align-items-center">
+<div class="row align-items-center">
                 <div class="col-lg-6 col-xl-5 order-1 m-auto" data-aos="fade-up" data-aos-delay="100">
                     <div class="restaurant-about-content section-title">
                         <h2 class="title mb-5"></h2>
@@ -38,5 +19,3 @@
                     </figure>
                 </div>
             </div>
-        </div>
-    </div>

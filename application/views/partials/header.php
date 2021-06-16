@@ -44,8 +44,8 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<?=site_url()?>service">
-                                        <span class="menu-text"> Service</span>
+                                    <a href="<?=site_url()?>services">
+                                        <span class="menu-text"> Services</span>
                                     </a>
                                 </li>
                                 <li>

@@ -5,14 +5,44 @@ class Home extends CI_Controller
 {
     public function index()
     {
-        $this->load->view('header');
+        $this->load->view('partials/header');
         $this->load->view('index');
-        $this->load->view('footer');
+        $this->load->view('portfolio');
+        $this->load->view('partials/support');
+        $this->load->view('partials/footer');
     }
     public function about()
     {
-        $this->load->view('header');
+        $page_details['title'] = "About Us";
+        $this->load->view('partials/header');
+        $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('about');
-        $this->load->view('footer');
+        $this->load->view('partials/footer');
+    }
+    public function services()
+    {
+        $page_details['title'] = "Services";
+        $this->load->view('partials/header');
+        $this->load->view('partials/breadcrums',$page_details);
+        $this->load->view('partials/servicesList');
+        $this->load->view('partials/footer');
+    }
+    public function career()
+    {
+        $this->load->view('partials/header');
+        $this->load->view('career');
+        $this->load->view('partials/footer');
+    }
+    public function contact()
+    {
+        $this->load->view('partials/header');
+        $this->load->view('contact');
+        $this->load->view('partials/footer');
+    }
+    public function portfolio()
+    {
+        $this->load->view('partials/header');
+        $this->load->view('portfolio');
+        $this->load->view('partials/footer');
     }
 }
