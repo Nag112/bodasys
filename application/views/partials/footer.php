@@ -104,8 +104,6 @@
     <script src="<?=site_url()?>assets/js/vendor/vendor.min.js"></script>
     <script src="<?=site_url()?>assets/js/plugins/plugins.min.js"></script>
 
-    <!--Main JS-->
-    <script src="<?=site_url()?>assets/js/main.js"></script>
 </body>
 
 </html>
