@@ -116,7 +116,7 @@
                                        
                                     </li>
                                     <li><a href="<?=site_url()?>about">About</a></li>
-                                    <li><a href="<?=site_url()?>service">Service</a></li>
+                                    <li><a href="<?=site_url()?>services">Services</a></li>
                                     <li class="menu-item-has-children"><a href="#">Portfolio</a>
                                         <ul class="dropdown">
                                             <li><a href="<?=site_url()?>portfolio">Portfolio One</a></li>
@@ -147,66 +147,6 @@
             </div>
         </aside>
         <!-- off-canvas menu end -->
-        <!-- Offcanvas Serach Start -->
-        <aside class="off-canvas-search-wrapper">
-            <div class="off-canvas-overlay"></div>
-            <div class="off-canvas-inner-content">
-                <div class="off-canvas-inner">
-                    <form action="#" method="post">
-                        <input type="search" placeholder="Search..">
-                        <button class="search-btn"><i class="fa fa-search"></i></button>
-                    </form>
-                </div>
-            </div>
-        </aside>
-        <!-- Offcanvas Search End -->
-        <!-- off-canvas menu start -->
-        <aside class="off-canvas-menu-wrapper" id="sideMenu">
-            <div class="off-canvas-overlay"></div>
-            <div class="off-canvas-inner-content">
-                <div class="off-canvas-inner">
-                    <!-- offcanvas widget area start -->
-                    <div class="offcanvas-widget-area">
-                        <!-- Start Serach Box -->
-                        <div class="search-box-wrap off-canvas-item">
-                            <form action="#" method="post">
-                                <input placeholder="Search..">
-                                <button class="btn-search"><i class="fa fa-search"></i>
-                                </button>
-                            </form>
-                        </div>
-                        <!-- End Search Box -->
-                        <ul class="menu-top-menu">
-                            <li><span>Who We Are</span></li>
-                        </ul>
-                        <p class="desc-content">Bodasystems Inc. is a project consulting and strategic staffing solutions
-                            provider focusing on to provide highly talented and knowledgeable resources to satisfy all
-                            your IT needs</p>
-                        <ul class="useful-link">
-                            <li><a href="<?=site_url()?>">Home</a></li>
-                            <li><a href="<?=site_url()?>service">Service</a></li>
-                            <li><a href="<?=site_url()?>portfolio">Portfolio</a></li>
-                            <li><a href="<?=site_url()?>about">About Us</a></li>
-                            <li><a href="<?=site_url()?>contact">Contact Us</a></li>
-                        </ul>
-                        <div class="widget-social">
-                            <ul class="menu-top-menu">
-                                <li><span>Connect With Us</span></li>
-                            </ul>
-                            <a title="Facebook" href="#"><i class="fa fa-facebook-f"></i></a>
-                            <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
-                            <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
-                            <a title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
-                            <a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
-                        </div>
-                    </div>
-                    <!-- offcanvas widget area end -->
-                </div>
-                <div class="btn-close-off-canvas">
-                    <i class="fa fa-times"></i>
-                </div>
-            </div>
-        </aside>
-        <!-- off-canvas menu end -->
+     
     </header>
     <!-- Header Area End Here -->

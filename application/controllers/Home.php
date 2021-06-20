@@ -7,7 +7,7 @@ class Home extends CI_Controller
     {
         $this->load->view('partials/header');
         $this->load->view('index');
-        // $this->load->view('portfolio');
+        
         $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }
