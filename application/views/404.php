@@ -3,7 +3,9 @@
   position: relative;
   height: 80vh;
 }
-
+.category-header-area{
+  background-color: #171a1d;
+}
 #notfound .notfound {
   position: absolute;
   left: 50%;
@@ -63,7 +65,7 @@
   display: inline-block;
   padding: 12px 30px;
   font-weight: 700;
-  background-color: #f99827;
+  background-color: #122179;
   color: #fff;
   border-radius: 40px;
   text-decoration: none;
@@ -96,7 +98,7 @@
 			</div>
 			<h2>Oops! Page Not Be Found</h2>
 			<p>Sorry but the page you are looking for does not exist, have been removed, name changed or is temporarily unavailable</p>
-			<a href="<?php echo site_url(); ?>">back_to_home</a>
+			<a href="<?php echo site_url(); ?>">back to home</a>
 		</div>
 	</div>
 </section>

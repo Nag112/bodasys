@@ -7,7 +7,6 @@ class Home extends CI_Controller
     {
         $this->load->view('partials/header');
         $this->load->view('index');
-        
         $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }
@@ -49,6 +48,13 @@ class Home extends CI_Controller
         $this->load->view('partials/header');
         $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('portfolio');
+        $this->load->view('partials/footer');
+    }
+    public function notfound()
+    {
+        $this->load->view('partials/header');
+        $this->load->view('404');
+        $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }
 }
