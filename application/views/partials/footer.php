@@ -16,11 +16,11 @@
                             your IT needs</p>
                             <!-- Soclial Link Start -->
                             <div class="widget-social pt-4">
-                                <a title="Facebook" href="#"><i class="fa fa-facebook-f text-white"></i></a>
-                                <a title="Twitter" href="#"><i class="fa fa-twitter text-white"></i></a>
-                                <a title="Linkedin" href="#"><i class="fa fa-linkedin text-white"></i></a>
-                                <a title="Youtube" href="#"><i class="fa fa-youtube text-white"></i></a>
-                                <a title="Vimeo" href="#"><i class="fa fa-vimeo text-white"></i></a>
+                                <a title="Facebook" href="#"><i class="fa fa-facebook-f"></i></a>
+                                <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+                                <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                                <a title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
+                                <a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
                             </div>
                             <!-- Social Link End -->
                         </div>
