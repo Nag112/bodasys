@@ -3,6 +3,11 @@ defined('BASEPATH') || exit('No direct script access allowed');
 
 class Home extends CI_Controller
 {
+    public function __construct()
+    {
+      parent::__construct();
+      $this->load->model('emailModel');
+    }
     public function index()
     {
         $this->load->view('partials/header');
@@ -50,6 +55,16 @@ class Home extends CI_Controller
         $this->load->view('portfolio');
         $this->load->view('partials/footer');
     }
+    public function uploadcv()
+    {
+        $this->emailModel->send_smtp_mail($_POST['message'],'Cv',$_POST['email'],$_POST['name'],);
+        $this->load->view('partials/success');
+    }
+    public function sendmail()
+    {
+        $this->emailModel->send_smtp_mail($_POST['message'],$_POST['subject'],$_POST['email'],$_POST['name'],);
+        $this->load->view('partials/success');
+    }
     public function notfound()
     {
         $this->load->view('partials/header');
@@ -58,3 +73,4 @@ class Home extends CI_Controller
         $this->load->view('partials/footer');
     }
 }
+?>

@@ -43,16 +43,13 @@
                 <div class="col-lg-4 col-xl-5 order-0 order-lg-1" data-aos="fade-up" data-aos-delay="300">
                 <div class="contact-form-area bg-light" data-aos="fade-up" data-aos-delay="100">
                     <div class="contact-form">
-                        <form action="" id="contact-form" method="post">
+                        <form action="<?=site_url('home/uploadcv')?>" id="contact-form" method="post">
                             <div class="row">
                                 <div class="col-md-6 col-12 mb-6">
                                     <input class="input-item" type="text" placeholder="Your Name *" name="name">
                                 </div>
                                 <div class="col-md-6 col-12 mb-6">
                                     <input class="input-item" type="email" placeholder="Email *" name="email">
-                                </div>
-                                <div class="col-12 mb-6">
-                                    <input class="input-item" type="text" placeholder="Mobile *" name="mobile">
                                 </div>
                                 <div class="col-12 mb-6">
                                     <input class="input-item" type="file" name="cv">
@@ -67,8 +64,6 @@
                         </form>
                         <p class="form-messege"></p>
                     </div>
-
-           
     </div>
                 </div>
             </div>
