@@ -20,7 +20,6 @@
                                 <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
                                 <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
                                 <a title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
-                                <a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
                             </div>
                             <!-- Social Link End -->
                         </div>
@@ -41,7 +40,7 @@
                     <div class="col-12 col-sm-6 col-md-4 col-lg-4 col-custom">
                         <div class="single-footer-widget" data-aos="fade-up" data-aos-delay="500"
                             data-aos-anchor-placement="bottom bottom">
-                            <h2 class="widget-title">Quicklink</h2>
+                            <h2 class="widget-title">Quicklinks</h2>
                             <ul class="widget-list pt-3">
                                 <li><a href="<?=site_url()?>">Home</a></li>
                                 <li><a href="<?=site_url()?>about">About</a></li>
@@ -60,7 +59,7 @@
                 <div class="row">
                     <div class="col-12 text-center col-custom">
                         <div class="copyright-content">
-                            <p class="mb-0">Copyright © 2020 <a href="#">Bodasystems</a>.</p>
+                            <p class="mb-0">Copyright © 2021 <a href="#">Bodasystems</a>.</p>
                         </div>
                     </div>
                 </div>

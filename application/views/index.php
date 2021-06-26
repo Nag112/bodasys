@@ -57,7 +57,7 @@
     <!-- Slider/Intro Section End -->
     <div class="about-section pt-90 pb-90">
         <div class="container">
-        <div class="row text-center">
+        <div class="row text-center ">
                 <div class="section-title" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="title">About Us</h3>
                     <h4 class="sub-title mb-0">Bodasystems Inc. is a project consulting and strategic staffing solutions
@@ -69,17 +69,12 @@
         </div>
     </div>
      <!-- Service Section Start Here -->
-     <div class="service-section pt-90 pb-90">
-        <div class="container">
-            <div class="row text-center">
-                <div class="section-title" data-aos="fade-up" data-aos-delay="100">
-                    <h3 class="title">Our Services</h3>
-                    <h4 class="sub-title mb-0">Bodasystems offers specific services to address customer IT needs in
-                        execution of strategic initiatives:</h4>
-                </div>
-            </div>
-            <?php include_once 'services.php'?>
-        </div>
-    </div>
+     <div class="row text-center ">
+     <div class="section-title" data-aos="fade-up" data-aos-delay="100">
+     <h3 class="title">Our Services</h3>
+     </div>
+     </div>
+    
+    <?php include_once 'services.php'?>
     <!-- Service Section End Here -->
 

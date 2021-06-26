@@ -1,6 +1,6 @@
 
     <!-- Contact Information And Title Area Start -->
-    <div class="contact-info mt-5 pt-90 pb-90">
+    <div class="contact-info mt-5 pb-90">
         <div class="container">
             <div class="row mb-n10">
                 <div class="col-md-4 mb-10" data-aos="fade-up" data-aos-delay="100">

@@ -43,17 +43,6 @@
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="<?=site_url()?>portfolio">
-                                        <span class="menu-text"> Portfolio</span>
-                                        <i class="fa fa-angle-down"></i>
-                                    </a>
-                                    <ul class="dropdown-submenu dropdown-hover">
-                                        <li><a href="<?=site_url()?>portfolio">Portfolio One</a></li>
-                                        <li><a href="<?=site_url()?>portfolio-2">Portfolio Two</a></li>
-                                        <li><a href="<?=site_url()?>portfolio-details">Portfolio Details</a></li>
-                                    </ul>
-                                </li>
-                                <li>
                                     <a href="<?=site_url()?>career">
                                         <span class="menu-text"> Career</span>
                                     </a>
@@ -112,21 +101,10 @@
                             <!-- mobile menu navigation start -->
                             <nav>
                                 <ul class="mobile-menu">
-                                    <li class="menu-item-has-children"><a href="<?=site_url()?>">Home</a>
-                                       
-                                    </li>
+                                    <li><a href="<?=site_url()?>">Home</a></li>
                                     <li><a href="<?=site_url()?>about">About</a></li>
                                     <li><a href="<?=site_url()?>services">Services</a></li>
-                                    <li class="menu-item-has-children"><a href="#">Portfolio</a>
-                                        <ul class="dropdown">
-                                            <li><a href="<?=site_url()?>portfolio">Portfolio One</a></li>
-                                            <li><a href="<?=site_url()?>portfolio-2">Portfolio Two</a></li>
-                                            <li><a href="<?=site_url()?>portfolio-details">Portfolio Details</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="menu-item-has-children"><a href="<?=site_url()?>career">Career</a>
-                                       
-                                    </li>
+                                    <li><a href="<?=site_url()?>career">Career</a></li>
                                     <li><a href="<?=site_url()?>contact">Contact</a></li>
                                 </ul>
                             </nav>
@@ -139,7 +117,6 @@
                             <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
                             <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
                             <a title="Youtube" href="#"><i class="fa fa-youtube"></i></a>
-                            <a title="Vimeo" href="#"><i class="fa fa-vimeo"></i></a>
                         </div>
                         <!-- Social Link End -->
                     </div>

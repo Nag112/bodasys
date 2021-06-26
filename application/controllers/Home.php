@@ -21,14 +21,19 @@ class Home extends CI_Controller
         $this->load->view('partials/header');
         $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('about');
+        $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }
     public function services()
     {
-        $page_details['title'] = "Services";
+        $page_details['title'] = "Our Services";
         $this->load->view('partials/header');
         $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('services');
+        $this->load->view('services-1');
+        $this->load->view('services-2');
+        $this->load->view('services-3');
+        $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }
     public function career()
@@ -37,6 +42,7 @@ class Home extends CI_Controller
         $this->load->view('partials/header');
         $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('career');
+        $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }
     public function contact()
@@ -47,14 +53,15 @@ class Home extends CI_Controller
         $this->load->view('contact');
         $this->load->view('partials/footer');
     }
-    public function portfolio()
-    {
-        $page_details['title'] = "Portfolio";
-        $this->load->view('partials/header');
-        $this->load->view('partials/breadcrums',$page_details);
-        $this->load->view('portfolio');
-        $this->load->view('partials/footer');
-    }
+    // public function portfolio()
+    // {
+    //     $page_details['title'] = "Portfolio";
+    //     $this->load->view('partials/header');
+    //     $this->load->view('partials/breadcrums',$page_details);
+    //     $this->load->view('portfolio');
+    //     $this->load->view('partials/support');
+    //     $this->load->view('partials/footer');
+    // }
     public function uploadcv()
     {
         $this->emailModel->send_smtp_mail($_POST['message'],'Cv',$_POST['email'],$_POST['name'],);

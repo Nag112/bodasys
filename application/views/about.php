@@ -1,4 +1,4 @@
-<div class="about-section pt-90 pb-90">
+<div class="about-section pb-90">
         <div class="container">
 <div class="row align-items-center">
                 <div class="col-lg-6 col-xl-5 order-1 m-auto" data-aos="fade-up" data-aos-delay="100">

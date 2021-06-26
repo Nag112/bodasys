@@ -1,4 +1,4 @@
-<div class="about-section pt-90 pb-90">
+<div class="about-section pb-90">
         <div class="container">
 <div class="row justify-content-start align-items-start">
                 <div class="col-lg-8 col-xl-7 order-1" data-aos="fade-up" data-aos-delay="100">
