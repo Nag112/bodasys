@@ -57,7 +57,7 @@
                 <div class="row">
                     <div class="col-12 text-center col-custom">
                         <div class="copyright-content">
-                            <p class="mb-0">Copyright © 2021 <a href="#">Bodasystems</a>.</p>
+                            <p class="mb-0">Copyright © 2021 <a href="#">Boda Systems</a>.</p>
                         </div>
                     </div>
                 </div>

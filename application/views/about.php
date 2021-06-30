@@ -6,7 +6,7 @@
                         <h2 class="title mb-5"></h2>
                         <p class="desc-content mb-7">Our core expertise lies in the ability to adopt collaborative approach, and to completely comprehend customer challenges and advocate long term solutions to enable future business growth by collaborating with the customer.</p>
                         <p class="desc-content mb-7">The Management team comprises of experienced professionals offering a combined experience of over 40 years of IT Management in Manufacturing, Healthcare, Utilities, Retail, Telecom, Human Resources, Immigration, State and Federal market places.</p>
-                        <p class="desc-content mb-7">Bodasystems strength is based on skills, talent, industry best practices and experience with deep industry specialization. The talented team brings in value in utilizing cutting-edge technology driven tools to optimize project life cycle and efficient project execution time phase. We take pride in the work we deliver, assume responsibility and accountability on the services delivered. In other words, Bodasystems offers total commitment to the customer needs.</p>
+                        <p class="desc-content mb-7">Boda Systems strength is based on skills, talent, industry best practices and experience with deep industry specialization. The talented team brings in value in utilizing cutting-edge technology driven tools to optimize project life cycle and efficient project execution time phase. We take pride in the work we deliver, assume responsibility and accountability on the services delivered. In other words, Boda Systems offers total commitment to the customer needs.</p>
                         
                     </div>
                 </div>

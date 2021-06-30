@@ -30,9 +30,6 @@ class Home extends CI_Controller
         $this->load->view('partials/header');
         $this->load->view('partials/breadcrums',$page_details);
         $this->load->view('services');
-        $this->load->view('services-1');
-        $this->load->view('services-2');
-        $this->load->view('services-3');
         $this->load->view('partials/support');
         $this->load->view('partials/footer');
     }

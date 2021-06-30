@@ -10,7 +10,7 @@
                         </div>
                         <div class="info-content">
                             <h4 class="title">Our Location</h4>
-                            <span class="info-text"> 2717 Commercial Center Blvd, Ste E200, Katy, TX 77494<br> USA</span>
+                            <span class="info-text"> 2717 Commercial Center Blvd, Ste E200, Katy, TX 77494 USA</span>
                         </div>
                     </div>
                 </div>
@@ -21,7 +21,8 @@
                         </div>
                         <div class="info-content">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> 346-667-7353</span>
+                            <br/>
+                            <span class="info-text"> 346-667-7353 </span>
                         </div>
                     </div>
                 </div>
@@ -33,6 +34,7 @@
                         <div class="info-content">
                             <h4 class="title">Help Desk</h4>
                             <span class="info-text">
+                            <br/>
                             <a href="mailto:info@bodasystems.com">info@bodasystems.com</a>
                         </span>
                         </div>
