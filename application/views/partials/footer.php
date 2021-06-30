@@ -11,7 +11,7 @@
                                     <img src="assets/images/logo/logo.png" alt="Logo Image">
                                 </a>
                             </div>
-                            <p class="desc-content pt-3 pb-3">Bodasystems Inc. is a project consulting and strategic staffing solutions
+                            <p class="desc-content pt-3 pb-3">Boda Systems Inc. is a project consulting and strategic staffing solutions
                             provider focusing on to provide highly talented and knowledgeable resources to satisfy all
                             your IT needs</p>
                             <!-- Soclial Link Start -->
@@ -29,11 +29,11 @@
                             data-aos-anchor-placement="bottom bottom">
                             <h2 class="widget-title">Our Services</h2>
                             <ul class="widget-list pt-3">
-                                <li><a href="<?=site_url()?>service">Strategy and Vision</a></li>
-                                <li><a href="<?=site_url()?>service">Needs Assessment</a></li>
-                                <li><a href="<?=site_url()?>service">Risk Management</a></li>
-                                <li><a href="<?=site_url()?>service">Schedule Management</a></li>
-                                <li><a href="<?=site_url()?>service">Project Management</a></li>
+                                <li>Strategy and Vision</li>
+                                <li>Needs Assessment</li>
+                                <li>Risk Management</li>
+                                <li>Schedule Management</li>
+                                <li>Project Management</li>
                             </ul>
                         </div>
                     </div>
@@ -46,11 +46,9 @@
                                 <li><a href="<?=site_url()?>about">About</a></li>
                                 <li><a href="<?=site_url()?>contact">Help Center</a></li>
                                 <li><a href="<?=site_url()?>career">Career</a></li>
-                                
                             </ul>
                         </div>
                     </div>
-                
                 </div>
             </div>
         </div>

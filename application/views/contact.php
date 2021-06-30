@@ -10,7 +10,7 @@
                         </div>
                         <div class="info-content">
                             <h4 class="title">Our Location</h4>
-                            <span class="info-text"> 110 W 34th St, Hyd. <br> Hyderabad.</span>
+                            <span class="info-text"> 2717 Commercial Center Blvd, Ste E200, Katy, TX 77494<br> USA</span>
                         </div>
                     </div>
                 </div>
@@ -21,7 +21,7 @@
                         </div>
                         <div class="info-content">
                             <h4 class="title">Give Us A Call</h4>
-                            <span class="info-text"> (+91) 9876541230</span>
+                            <span class="info-text"> 346-667-7353</span>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,8 @@
                 <div class="col-12">
                     <!--Google Map Area Start-->
                     <div class="google-map-area">
-                    <iframe title="" class="contact-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15224.997562908678!2d78.36776458659054!3d17.447773629174563!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb93dc8c5d69df%3A0x19688beb557fa0ee!2sHITEC%20City%2C%20Hyderabad%2C%20Telangana%20500081!5e0!3m2!1sen!2sin!4v1623854761995!5m2!1sen!2sin" loading="lazy"></iframe>
+                    <iframe title="" class="contact-map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3464.289447173457!2d-95.77702608489199!3d29.740335181993988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864121fd24bbbd95%3A0x809bc71a2f27035f!2s2717%20Commercial%20Center%20Blvd%20Ste%20E200%2C%20Katy%2C%20TX%2077494%2C%20USA!5e0!3m2!1sen!2sin!4v1625035943236!5m2!1sen!2sin" loading="lazy"></iframe>
+                    
                     </div>
                     <!--Google Map Area Start-->
                 </div>

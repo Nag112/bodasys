@@ -25,7 +25,7 @@
                         </div>
                     </div>
                     <div class="col-lg-10 col-md-6 col-6 d-flex justify-content-end">
-                        <nav class="main-nav d-none d-lg-flex">
+                        <nav class="main-nav d-none d-lg-flex" aria-label="">
                             <ul class="nav">
                                 <li>
                                     <a class="active" href="<?=site_url()?>">
@@ -40,6 +40,11 @@
                                 <li>
                                     <a href="<?=site_url()?>services">
                                         <span class="menu-text"> Services</span>
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="<?=site_url()?>portfolio">
+                                        <span class="menu-text"> Portfolio</span>
                                     </a>
                                 </li>
                                 <li>
@@ -99,11 +104,16 @@
                         <!-- mobile menu start -->
                         <div class="mobile-navigation">
                             <!-- mobile menu navigation start -->
-                            <nav>
+                            <nav aria-label="">
                                 <ul class="mobile-menu">
                                     <li><a href="<?=site_url()?>">Home</a></li>
                                     <li><a href="<?=site_url()?>about">About</a></li>
                                     <li><a href="<?=site_url()?>services">Services</a></li>
+                                    <li>
+                                    <a href="<?=site_url()?>portfolio">
+                                        <span class="menu-text"> Portfolio</span>
+                                    </a>
+                                </li>
                                     <li><a href="<?=site_url()?>career">Career</a></li>
                                     <li><a href="<?=site_url()?>contact">Contact</a></li>
                                 </ul>

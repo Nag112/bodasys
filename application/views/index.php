@@ -13,7 +13,7 @@
                     <!-- Intro Content Start -->
                     <div class="slider-content text-center">
                         <h2 class="title">Who we Are</h2>
-                        <h4 class="sub-title">Bodasystems Inc. is a project consulting and strategic staffing solutions
+                        <h4 class="sub-title">Boda Systems Inc. is a project consulting and strategic staffing solutions
                             provider focusing on to provide highly talented and knowledgeable resources to satisfy all
                             your IT needs</h4>
                     </div>
@@ -60,7 +60,7 @@
         <div class="row text-center ">
                 <div class="section-title" data-aos="fade-up" data-aos-delay="100">
                     <h3 class="title">About Us</h3>
-                    <h4 class="sub-title mb-0">Bodasystems Inc. is a project consulting and strategic staffing solutions
+                    <h4 class="sub-title mb-0">Boda Systems Inc. is a project consulting and strategic staffing solutions
                             provider focusing on to provide highly talented and knowledgeable resources to satisfy all
                             your IT needs</h4>
                 </div>
@@ -69,11 +69,14 @@
         </div>
     </div>
      <!-- Service Section Start Here -->
-     <div class="row text-center ">
+     <div class="container">
+     <div class="row text-center">
      <div class="section-title" data-aos="fade-up" data-aos-delay="100">
      <h3 class="title">Our Services</h3>
      </div>
      </div>
+     </div>
+    
     
     <?php include_once 'services.php'?>
     <!-- Service Section End Here -->
